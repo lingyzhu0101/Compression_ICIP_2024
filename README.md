@@ -40,11 +40,13 @@ We use the RGB image based on the [COCO 2017](https://cocodataset.org/#home) dat
 ## Citation Information
 If you find the project useful, please cite:
 ```
-@article{,
+@inproceedings{zhu2024learned,
   title={Learned Image Compression for Both Humans and Machines via Dynamic Adaptation},
-  author={Lingyu Zhu, Binzhe Li, Riyu Lu, Peilin Chen, Qi Mao, Zhao Wang, Wenhan Yang, Shiqi Wang},
-  journal={IEEE International Conference on Image Processing},
-  year={2024}
+  author={Zhu, Lingyu and Li, Binzhe and Lu, Riyu and Chen, Peilin and Mao, Qi and Wang, Zhao and Yang, Wenhan and Wang, Shiqi},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)},
+  pages={1788--1794},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
