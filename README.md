@@ -14,7 +14,7 @@ Official Pytorch implementation of **Learned Image Compression for Both Humans a
 [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=zh-CN)
 
 
-[[`PDF`](https://ieeexplore.ieee.org/document/10647444)] [[`Presentation PPT`]()]  
+[[`PDF`](https://ieeexplore.ieee.org/document/10647444)] [[`Presentation PPT`](src/figures/icip_presentation.pdf)]  
 
 
 
