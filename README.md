@@ -14,6 +14,10 @@ Official Pytorch implementation of **Learned Image Compression for Both Humans a
 [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=zh-CN)
 
 
+[[`PDF`](https://ieeexplore.ieee.org/document/10647444)] [[`Presentation PPT`]()]  
+
+
+
 ## Overview
 <p align="left">
 <img src="src/figures/framework.png" width=80% height=80% 
